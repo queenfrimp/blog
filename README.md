@@ -1,7 +1,6 @@
-# README
+# A Blog - Ruby On Rails Web Application
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a blog that is being built with Ruby and the Rails framework.
 
 Things you may want to cover:
 
